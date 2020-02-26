@@ -1,0 +1,2 @@
+# myCVaku
+ini adalah cv
